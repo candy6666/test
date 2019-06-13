@@ -7,7 +7,7 @@
 
 echo "Hello,World!";
 //打印语句
-echo "<br>";
+echo "<br>";//分行
 
 echo "The first php program!";  //打印语句
 ?>
